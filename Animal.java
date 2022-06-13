@@ -8,6 +8,7 @@ public class Animal {
 	{
 		System.out.println("Seeeing");
 		System.out.println("Seeeing the world");
+		System.out.println("Seeeing the world with eyes");
 	}
 	
 	public void add(int x,int y)
