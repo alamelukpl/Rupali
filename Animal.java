@@ -12,15 +12,7 @@ public class Animal {
 		System.out.println("Seeeing the world with eyes not ears");
 	}
 	
-	public void add(int x,int y)
-	{
-		System.out.println(x+y);
-	}
 	
-	public void add1(int x,int y)
-	{
-		System.out.println(x+y);
-	}
 	
 	public void ears()
 	{
